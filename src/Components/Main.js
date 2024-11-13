@@ -30,7 +30,7 @@ const data = [
     destTitle: 'Sarala Village',
     location: 'Odisha',
     grade: 'CULTURAL RELAX',
-    fees: '$700',
+    fees: '₹700',
     description: 'The epitome of romance, Bora Bora is one of the best travel destination in the world. This place is known for its luxurious stays and adventurous activitues.'
   },
 
@@ -40,7 +40,7 @@ const data = [
     destTitle: 'Deomali',
     location: 'Odisha',
     grade: 'ULTURAL RELAX',
-    fees: '$600',
+    fees: '₹600',
     description: 'The epitome of romance, Bora Bora is one of the best travel destination in the world. This place is known for its luxurious stays and adventurous activitues.'
   },
   {
@@ -49,7 +49,7 @@ const data = [
     destTitle: 'Dudhwa',
     location: 'Uttar Pradesh',
     grade: 'ULTURAL RELAX',
-    fees: '$700',
+    fees: '₹700',
     description: 'The epitome of romance, Bora Bora is one of the best travel destination in the world. This place is known for its luxurious stays and adventurous activitues.'
   },
   {
@@ -58,7 +58,7 @@ const data = [
     destTitle: 'Sundarbans',
     location: 'West Bengal',
     grade: 'ULTURAL RELAX',
-    fees: '$700',
+    fees: '₹700',
     description: 'The epitome of romance, Bora Bora is one of the best travel destination in the world. This place is known for its luxurious stays and adventurous activitues.'
   },
   {
@@ -67,7 +67,7 @@ const data = [
     destTitle: 'Radhanagar Beach',
     location: 'Havelock Island',
     grade: 'ULTURAL RELAX',
-    fees: '$700',
+    fees: '₹700',
     description: 'The epitome of romance, Bora Bora is one of the best travel destination in the world. This place is known for its luxurious stays and adventurous activitues.'
   },
   {
@@ -76,7 +76,7 @@ const data = [
     destTitle: 'Chillika',
     location: 'Odisha',
     grade: 'ULTURAL RELAX',
-    fees: '$700',
+    fees: '₹700',
     description: 'The epitome of romance, Bora Bora is one of the best travel destination in the world. This place is known for its luxurious stays and adventurous activitues.'
   },
   {
@@ -85,7 +85,7 @@ const data = [
     destTitle: 'Addu Atoll',
     location: 'Maldives',
     grade: 'ULTURAL RELAX',
-    fees: '$700',
+    fees: '₹700',
     description: 'The epitome of romance, Bora Bora is one of the best travel destination in the world. This place is known for its luxurious stays and adventurous activitues.'
   },
   {
@@ -94,7 +94,7 @@ const data = [
     destTitle: 'Similipal',
     location: 'Odisha',
     grade: 'ULTURAL RELAX',
-    fees: '$700',
+    fees: '₹700',
     description: 'The epitome of romance, Bora Bora is one of the best travel destination in the world. This place is known for its luxurious stays and adventurous activitues.'
   },
   {
@@ -103,7 +103,7 @@ const data = [
     destTitle: 'Went Jaintia Hills',
     location: 'Meghalaya',
     grade: 'ULTURAL RELAX',
-    fees: '$700',
+    fees: '₹700',
     description: 'The epitome of romance, Bora Bora is one of the best travel destination in the world. This place is known for its luxurious stays and adventurous activitues.'
   },
 
