@@ -63,10 +63,10 @@ const Home = () => {
             <a href="https://linkedin.com/in/jayaprakashdas">
             <AiFillLinkedin className='icon'/>
             <a/>
-            <a href="https://linkedin.com/in/jayaprakashdas">
+            <a href="https://github.com/in/jayaprakashdas">
             <AiFillGithub className='icon'/>
             <a/>
-            <a href="https://linkedin.com/in/jayaprakashdas">
+            <a href="https://instagram.com/jayprakash_das_5763">
             <AiOutlineInstagram className='icon'/>
             <a/>
           </div>
