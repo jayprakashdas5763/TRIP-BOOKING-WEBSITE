@@ -55,7 +55,7 @@ const Footer = ()  => {
             </div>
 
             <div data-aos='fade-up' className='footerSocials flex'>
-               <a href="https://linkedin.com/in/jayaprakashdas" >
+               <a href='https://linkedin.com/in/jayaprakashdas' >
                   <AiFillLinkedin className='icon'/>
                <a/>
                <a href="https://github.com/jayprakashdas5763" >
