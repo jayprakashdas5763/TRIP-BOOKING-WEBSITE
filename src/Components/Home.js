@@ -60,9 +60,15 @@ const Home = () => {
 
         <div data-aos='fade-up'  className="homeFooterIcons flex">
           <div className="rightIcons">
+            <a href="https://linkedin.com/in/jayaprakashdas">
             <AiFillLinkedin className='icon'/>
+            <a/>
+            <a href="https://linkedin.com/in/jayaprakashdas">
             <AiFillGithub className='icon'/>
+            <a/>
+            <a href="https://linkedin.com/in/jayaprakashdas">
             <AiOutlineInstagram className='icon'/>
+            <a/>
           </div>
           <div className="leftIcons"></div>
         </div>
